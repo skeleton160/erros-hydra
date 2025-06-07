@@ -1,3 +1,3 @@
 # teste
 
-![teste](./assets/teste.png)
+![teste](./teste.png)
